@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Yogeshwar B K",
-  "homepage": "",
+  "homepage": "https://github.com/bkyogesh28/Portfolio-Main",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
