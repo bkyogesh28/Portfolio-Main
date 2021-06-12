@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "pages.yogeshbk.tech/static/css/main.c68672d2.chunk.css",
-    "main.js": "pages.yogeshbk.tech/static/js/main.bf74cc28.chunk.js",
-    "main.js.map": "pages.yogeshbk.tech/static/js/main.bf74cc28.chunk.js.map",
+    "main.js": "pages.yogeshbk.tech/static/js/main.e72ee568.chunk.js",
+    "main.js.map": "pages.yogeshbk.tech/static/js/main.e72ee568.chunk.js.map",
     "runtime-main.js": "pages.yogeshbk.tech/static/js/runtime-main.dd0c789e.js",
     "runtime-main.js.map": "pages.yogeshbk.tech/static/js/runtime-main.dd0c789e.js.map",
     "static/js/2.93426a28.chunk.js": "pages.yogeshbk.tech/static/js/2.93426a28.chunk.js",
     "static/js/2.93426a28.chunk.js.map": "pages.yogeshbk.tech/static/js/2.93426a28.chunk.js.map",
     "index.html": "pages.yogeshbk.tech/index.html",
-    "precache-manifest.be3b2b4b385763be4f324e4fdbd77023.js": "pages.yogeshbk.tech/precache-manifest.be3b2b4b385763be4f324e4fdbd77023.js",
+    "precache-manifest.abe2715926f6dbf5178dfa81a2184642.js": "pages.yogeshbk.tech/precache-manifest.abe2715926f6dbf5178dfa81a2184642.js",
     "service-worker.js": "pages.yogeshbk.tech/service-worker.js",
     "static/css/main.c68672d2.chunk.css.map": "pages.yogeshbk.tech/static/css/main.c68672d2.chunk.css.map",
     "static/media/index.css": "pages.yogeshbk.tech/static/media/amsterdam-three-slant.7839e7a4.ttf",
@@ -78,6 +78,6 @@
     "static/js/runtime-main.dd0c789e.js",
     "static/js/2.93426a28.chunk.js",
     "static/css/main.c68672d2.chunk.css",
-    "static/js/main.bf74cc28.chunk.js"
+    "static/js/main.e72ee568.chunk.js"
   ]
 }

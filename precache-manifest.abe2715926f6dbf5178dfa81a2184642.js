@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68de50539c772f4e5149e3e5367e5017",
+    "revision": "0a7e134165fda4a2ecb72c9c569dbac0",
     "url": "pages.yogeshbk.tech/index.html"
   },
   {
-    "revision": "1fd67dbed501294782c4",
+    "revision": "36b02688ff6ac13f2036",
     "url": "pages.yogeshbk.tech/static/css/main.c68672d2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "pages.yogeshbk.tech/static/js/2.93426a28.chunk.js"
   },
   {
-    "revision": "1fd67dbed501294782c4",
-    "url": "pages.yogeshbk.tech/static/js/main.bf74cc28.chunk.js"
+    "revision": "36b02688ff6ac13f2036",
+    "url": "pages.yogeshbk.tech/static/js/main.e72ee568.chunk.js"
   },
   {
     "revision": "364210fbacee826b761e",
